@@ -6,6 +6,6 @@ ENV N8N_BASIC_AUTH_PASSWORD=palanikalyan
 
 ENV N8N_HOST=0.0.0.0
 ENV N8N_PORT=5678
-ENV WEBHOOK_URL=https://n8n.onrender.com/
+ENV WEBHOOK_URL=https://n8n-2qe7.onrender.com
 
 EXPOSE 5678
