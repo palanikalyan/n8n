@@ -3,7 +3,7 @@ name: Build and Push n8n Docker Image
 on:
   push:
     branches:
-      - main
+      - PROFILE
 
 jobs:
   build-and-push:
